@@ -2,7 +2,7 @@
 
 **`Developer Frontend Web`**
 
-"Me chamo Luiz Junior, tenho 30 anos e sou natural do Rio Grande do Norte. Sou desenvolvedor web em formação, com conhecimento em HTML, CSS, JavaScript, React e outras tecnologias. Atualmente, curso desenvolvimento web na plataforma Refatorando by Belago, onde estudo as principais linguagens e ferramentas do setor, incluindo NPM, Git & GitHub, TypeScript, Tailwind CSS, Node.js e PostgreSQL. Comprometido com a aprendizagem contínua, busco sempre evoluir e dar o meu melhor para criar soluções eficientes e bem estruturadas. Pronto para enfrentar desafios e contribuir com projetos inovadores."
+Olá me chamo Luiz Junior, sou desenvolvedor web em formação, com conhecimento em HTML, CSS, JavaScript, React e outras tecnologias. Atualmente, curso desenvolvimento web na plataforma Refatorando by Belago, onde estudo as principais linguagens e ferramentas do setor, incluindo NPM, Git & GitHub, TypeScript, Tailwind CSS, Node.js e PostgreSQL. Comprometido com a aprendizagem contínua, busco sempre evoluir e dar o meu melhor para criar soluções eficientes e bem estruturadas. Pronto para enfrentar desafios e contribuir com projetos inovadores.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -32,12 +32,12 @@
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="npm" 
+    title="npm"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" 
-/>         
+/>
 <img 
     align="left" 
     alt="TypeScript"
@@ -69,6 +69,22 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="nodejs" 
+    title="nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 <br/>
