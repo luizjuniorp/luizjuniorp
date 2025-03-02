@@ -4,6 +4,7 @@
 
 Olá me chamo Luiz Junior, sou desenvolvedor web em formação, com conhecimento em HTML, CSS, JavaScript, React e outras tecnologias. Atualmente, curso desenvolvimento web na plataforma Refatorando by Belago, onde estudo as principais linguagens e ferramentas do setor, incluindo NPM, Git & GitHub, TypeScript, Tailwind CSS, Node.js e PostgreSQL. Comprometido com a aprendizagem contínua, busco sempre evoluir e dar o meu melhor para criar soluções eficientes e bem estruturadas. Pronto para enfrentar desafios e contribuir com projetos inovadores.
 
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
