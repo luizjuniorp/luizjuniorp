@@ -1,8 +1,34 @@
 # 👨‍💻 Luiz Junior
 
-**`Developer Frontend Web`**
+**`Developer Full Stack Web`**
 
-Olá me chamo Luiz Junior, sou desenvolvedor web em formação, com conhecimento em HTML, CSS, JavaScript, React e outras tecnologias. Atualmente, curso desenvolvimento web na plataforma Refatorando by Belago, onde estudo as principais linguagens e ferramentas do setor, incluindo NPM, Git & GitHub, TypeScript, Tailwind CSS, Node.js e PostgreSQL. Comprometido com a aprendizagem contínua, busco sempre evoluir e dar o meu melhor para criar soluções eficientes e bem estruturadas. Pronto para enfrentar desafios e contribuir com projetos inovadores.
+# Olá, eu sou o Luiz Junior! 👋
+
+Desenvolvedor Web / Full Stack focado em criar aplicações modernas, responsivas e eficientes.
+
+---
+
+### 🛠️ Minhas Tecnologias & Ferramentas
+
+- **Linguagens:** JavaScript (ES6+), TypeScript
+- **Front-end:** React, HTML5, CSS3, Tailwind CSS
+- **Back-end:** Node.js, Express, RESTful APIs
+- **Banco de Dados & Ferramentas:** PostgreSQL, Git, GitHub, VS Code
+
+---
+
+### 📂 Projetos em Destaque
+
+-  **E-Commerce** — Interface completa de checkout, gerenciamento de estado e navegação.
+-  **TaskFlow / Gerenciador de Tarefas** — Aplicação CRUD completa integrando consumo de API e organização em tempo real.
+- **Aplicação de Previsão do Tempo** — Aplicação interativa que consulta e exibe dados meteorológicos em tempo real de qualquer cidade do mundo.
+
+---
+
+### 📬 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-junior-pinheiro-11002b41b/)
+- 📧 Email: luizjuniorp@outlook.com
 
 ---
 ### 🤖 Linguagens e Tecnologias
